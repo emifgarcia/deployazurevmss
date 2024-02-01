@@ -1,2 +1,2 @@
 # deployazurevmss
-Step by step to deploy a VMSS (Virtual Machine Scale Set) in the Azure portal
+Step-by-step guide for deploying a VMSS in the Azure portal with a standard image.
